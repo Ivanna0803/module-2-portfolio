@@ -57,3 +57,15 @@ nav ul li a {
   height: 240px;
   width: 100%;
 }
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  right: 50px;
+  font-size: 18px;
+  background-color: rgb(123, 190, 190);
+  float:right;
+  padding-inline: 10px;
+  color: antiquewhite;
+}
