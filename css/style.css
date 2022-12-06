@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
@@ -24,8 +28,9 @@ h1 {
   padding-right: 10px;
   width: 270px;
   font-size: 36px;
-  color: antiquewhite;
+  color: rgb(23, 42, 42);
 }
+
 
 nav {
   padding: 10px;
@@ -46,6 +51,23 @@ nav ul li a {
   width: 100px;
   padding-left: 10px;
   padding-right: 10px;
+  border-bottom: 2px solid;
+}
+
+nav ul li a:link {
+  color: rgb(123, 190, 190);   
+ }
+
+nav ul li a:visited {
+  color: rgb(123, 190, 190);  
+ }
+
+nav ul li a:active { 
+ color: rgb(123, 190, 190); 
+}
+
+nav ul li  a:hover { 
+ color: antiquewhite; 
 }
 
 .hero-banner {
@@ -67,7 +89,7 @@ nav ul li a {
   background-color: rgb(123, 190, 190);
   float:right;
   padding-inline: 10px;
-  color: antiquewhite;
+  color: rgb(23, 42, 42);
 }
 
 .page-section {
@@ -89,6 +111,7 @@ nav ul li a {
   font-size: 30px;
   text-align: right;
   padding-right: 10px;
+  color: #061528;
 }
 
 .page-section-content {
