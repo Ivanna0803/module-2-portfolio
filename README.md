@@ -18,7 +18,8 @@ The following methouds were used in the creation of this project:
 
 ## Usage
 
-To open deployd application, please follow the link below. 
+To open deployed application, please follow the link below:
+https://ivanna0803.github.io/module-2-portfolio/
 
 ## Credits
 
