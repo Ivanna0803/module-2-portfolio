@@ -6,6 +6,7 @@
 
 a {
   text-decoration: none;
+  color: #000;
 }
 
 body {
@@ -18,7 +19,7 @@ body {
   padding-top: 10px;
   padding-bottom: 15px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: #1C3879;
+  background-color: #1a2641;
 }
 
 h1 {
@@ -28,7 +29,7 @@ h1 {
   padding-right: 10px;
   width: 270px;
   font-size: 36px;
-  color: #1C3879;
+  color: #1a2641;
 }
 
 
@@ -90,7 +91,7 @@ nav ul li  a:hover {
   background-color: #B1E1FF;
   float:right;
   padding-inline: 10px;
-  color: #1C3879;
+  color: #1a2641;
 }
 
 .page-section {
@@ -112,7 +113,7 @@ nav ul li  a:hover {
   font-size: 30px;
   text-align: right;
   padding-right: 10px;
-  color: #1C3879;
+  color: #1a2641;
 }
 
 .page-section-content {
@@ -140,7 +141,7 @@ nav ul li  a:hover {
 .container1 {
   grid-column: 1/5;
   height: 380px;
-  background-image: linear-gradient(rgba(135, 149, 194, 0.7), rgba(0, 0, 0, 0.7)), url(../images/waves.jpg);
+  background-image: linear-gradient(rgba(135, 149, 194, 0.7), rgba(0, 0, 0, 0.7)), url(../images/horiseon.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -148,7 +149,7 @@ nav ul li  a:hover {
 }
 
 .container1:hover {
-  background-image: url(../images/waves.jpg);
+  background-image: url(../images/horiseon.jpg);
 }
 
 .container2 {
